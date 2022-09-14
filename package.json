@@ -1,0 +1,20 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "Repository for Web Backend development 2. Node.js learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aitanatc/CSE341-Node.git"
+  },
+  "author": "ATC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aitanatc/CSE341-Node/issues"
+  },
+  "homepage": "https://github.com/Aitanatc/CSE341-Node#readme"
+}
