@@ -1,0 +1,23 @@
+{
+    "contact": {
+      "firstName": "Aitana",
+      "lastName": "Toscano",
+      "email": "ana@gmail.com",
+      "favoriteColor": "Blue",
+      "birthday": "02/12/2000"
+    },
+    "contact2": {
+      "firstName": "Dave",
+      "lastName": "Pozo",
+      "email": "dpozo@gmail.com",
+      "favoriteColor": "Brown",
+      "birthday": "10/14/1998"
+    },
+    "contact3": {
+      "firstName": "Lola",
+      "lastName": "Cedeno",
+      "email": "lolycd@gmail.com",
+      "favoriteColor": "Orange",
+      "birthday": "05/23/1973"
+    }
+  }
