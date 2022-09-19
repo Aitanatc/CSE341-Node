@@ -16,9 +16,5 @@
   "bugs": {
     "url": "https://github.com/Aitanatc/CSE341-Node/issues"
   },
-  "homepage": "https://github.com/Aitanatc/CSE341-Node#readme",
-  "dependencies": {
-    "dotenv": "^16.0.2",
-    "mongodb": "^4.9.1"
-  }
+  "homepage": "https://github.com/Aitanatc/CSE341-Node#readme"
 }
