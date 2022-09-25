@@ -5,7 +5,8 @@ const doc = {
     title: 'My API',
     description: 'CSE 341, L4',
   },
-  host: 'localhost:3000',
+  // host: 'localhost:3000',
+  host : 'myapi-cse341.herokuapp.com',
   schemes: ['http'],
 };
 
