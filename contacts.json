@@ -4,20 +4,29 @@
       "lastName": "Pozo",
       "email": "dp@mail.com",
       "favoriteColor": "Blue",
-      "birthday": "10/14"
+      "birthday": "10/14",
+      "favoriteFood": "pizza",
+      "favoriteMovie": "Lion King",
+      "Country": "Ecuador"
     },
     "contact2": {
       "firstName": "AnA",
       "lastName": "Toscano",
       "email": "at@mail.com",
       "favoriteColor": "green",
-      "birthday": "02/12"
+      "birthday": "02/12",
+      "favoriteFood": "pizza",
+      "favoriteMovie": "Lion King",
+      "Country": "Ecuador"
     },
     "contact3": {
       "firstName": "Loly",
       "lastName": "Cedeno",
       "email": "dc@mail.com",
       "favoriteColor": "Orange",
-      "birthday": "05/23"
+      "birthday": "05/23",
+      "favoriteFood": "pizza",
+      "favoriteMovie": "Lion King",
+      "Country": "Ecuador"
     }
   }
